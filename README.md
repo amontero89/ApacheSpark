@@ -33,6 +33,6 @@ Donwload from: https://www.dropbox.com/s/us270ojf1y3svip/sample_kmeans_data.txt?
 Notebooks:
 - 01 - Apache Spark - ML - FlujoDeML
 - 02 - Apache Spark - ML - Preprocesa
-- 03 - ApacheSpark - ML - Supervised
+- 03 - ApacheSpark - ML - Supervisado
 - 04 - ApacheSpark - ML - NoSupervisado
 
